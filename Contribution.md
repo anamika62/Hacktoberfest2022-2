@@ -29,7 +29,7 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL : 
+7) Name : Anamika Pandey
+   Place : Kanpur ,UP, India
+   Bio : Student
+   GitHub URL : https://github.com/anamika62
